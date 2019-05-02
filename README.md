@@ -22,16 +22,7 @@ A **C language file**   is called inside this function to write the final hexade
 1. Then using some time to develop some python scripts and C language files to achieve the whole process.
 
 #### Process Flow
-```flow
-st=>start: Raw String
-op=>operation: Base32 converted to int
-op1=>operation: int converted to 5 digits binary
-op2=>operation: binary converted to 2 digits heximal
-op3=>operation: echo heximal string into .gif file
-e=>end: GIF answer
-
-st->op->op1->op2->op3->e
-```
+![alt text](https://raw.githubusercontent.com/WrynnWang/decipher_puzzle/master/flowchart.png)
 
 #### References
 1. - `<GIF Wiki>` : <https://en.wikipedia.org/wiki/GIF#Example_GIF_file>
