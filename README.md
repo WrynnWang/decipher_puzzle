@@ -1,5 +1,4 @@
 # decipher_puzzle
-### 24 Hours Challenge: Decipher Puzzle
 Normally, during this stage, there will be a set of algorithm problems or real-world questions like developing a demo under the required time. This is the first time thatＩcome across a decipher problem. Although still have enough time before start handling it, I want to figure it out as soon as possible because of my curiosity, passion to learn, etc.
 
 #### Project intro
